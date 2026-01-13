@@ -10,6 +10,7 @@ An AI collaborative assistant with sandboxed execution, built on Claude Agent SD
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/opencowork-ai/opencowork/pulls)
 
 [Website](https://openco.work) · [Documentation](https://openco.work/docs) · [Roadmap](https://openco.work/roadmap)
+<img width="2774" height="2140" alt="image" src="https://github.com/user-attachments/assets/bf4c4d39-86f6-4aa7-a950-3ed0a447c9c4" />
 
 </div>
 
